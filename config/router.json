@@ -1,0 +1,7 @@
+{
+	"name": "Router",
+	"initialConfigPort": 2000,
+	"httpPort": 8000,
+	"enableHTTPS": false,
+	"httpsPort": 443
+}
